@@ -9,7 +9,7 @@
     "build": "NODE_ENV=production webpack --mode=production",
     "lint:js": "eslint \"src/js/**/*.js\" --fix",
     "lint:css": "stylelint \"src/**/*.css\" --fix",
-    "fix:all": "npm run format && npm run lint:css && npm run list:js"
+    "fix:all": "npm run format && npm run lint:css && npm run lint:js"
   },
   "repository": {
     "type": "git",
