@@ -13,11 +13,16 @@
 
 ## Features
 
-- **Module Bundling**: Pre-configured with Webpack 5 for efficient asset bundling.
-- **Modern JavaScript**: Use the latest JavaScript features with Babel transpilation.
+- **Module Bundling**: Pre-configured with Webpack 5 for efficient asset bundling and code splitting.
+- **Modern JavaScript**: Use the latest JavaScript features with Babel transpilation (`@babel/preset-env`) for broad browser compatibility.
 - **Code Quality**: Enforce consistent code style with ESLint and Prettier.
-- **Style Management**: Lint and auto-prefix CSS with Stylelint and PostCSS.
+- **Style Management**: Lint, format, and auto-prefix CSS with Stylelint, PostCSS, and Autoprefixer.
 - **Live Development**: A ready-to-use Webpack dev server with hot reload functionality.
+- **HTML Templating**: Automatically injects assets into your HTML using `html-webpack-plugin`.
+- **Production Optimization**: Extract and minify CSS for production with `mini-css-extract-plugin`.
+- **Cross-Browser Support**: Uses `browserslist` to ensure compatibility with modern browsers.
+- **Fix-All Script**: Run a single command to auto-format and lint all JS and CSS files.
+- **Environment Awareness**: Supports `NODE_ENV` for environment-specific optimizations.
 
 ---
 
