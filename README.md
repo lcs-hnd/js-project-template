@@ -14,7 +14,7 @@
 ## Features
 
 - **Module Bundling**: Pre-configured with Webpack 5 for efficient asset bundling and code splitting.
-- **Modern JavaScript**: Use the latest JavaScript features with Babel transpilation (`@babel/preset-env`) for broad browser compatibility.
+- **Modern JavaScript**: Use the latest JavaScript features with Babel transpilation `@babel/preset-env`.
 - **Code Quality**: Enforce consistent code style with ESLint and Prettier.
 - **Style Management**: Lint, format, and auto-prefix CSS with Stylelint, PostCSS, and Autoprefixer.
 - **Live Development**: A ready-to-use Webpack dev server with hot reload functionality.
