@@ -1,4 +1,4 @@
-# Modern JavaScript Template
+# Webpack JavaScript Template
 
 [![Repo size](https://img.shields.io/github/repo-size/lcs-hnd/js-project-template)](https://github.com/lcs-hnd/js-project-template)
 [![License](https://img.shields.io/github/license/lcs-hnd/js-project-template)](https://github.com/lcs-hnd/js-project-template)
