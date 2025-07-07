@@ -1,8 +1,8 @@
 # Webpack JavaScript Template
 
-[![Repo size](https://img.shields.io/github/repo-size/lcs-hnd/js-project-template)](https://github.com/lcs-hnd/js-project-template)
-[![License](https://img.shields.io/github/license/lcs-hnd/js-project-template)](https://github.com/lcs-hnd/js-project-template)
-[![Last commit](https://img.shields.io/github/last-commit/lcs-hnd/js-project-template)](https://github.com/lcs-hnd/js-project-template)
+[![Repo size](https://img.shields.io/github/repo-size/lcs-hnd/webpack-template)](https://github.com/lcs-hnd/webpack-template)
+[![License](https://img.shields.io/github/license/lcs-hnd/webpack-template)](https://github.com/lcs-hnd/webpack-template)
+[![Last commit](https://img.shields.io/github/last-commit/lcs-hnd/webpack-template)](https://github.com/lcs-hnd/webpack-template)
 
 > A minimal boilerplate for modern vanilla JavaScript development. Includes Webpack 5 for bundling, a live dev server, ESLint for code quality, Prettier for formatting, and Stylelint for CSS.
 
