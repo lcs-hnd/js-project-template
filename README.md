@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/github/license/lcs-hnd/webpack-template)](https://github.com/lcs-hnd/webpack-template)
 [![Last commit](https://img.shields.io/github/last-commit/lcs-hnd/webpack-template)](https://github.com/lcs-hnd/webpack-template)
 
-> A minimal boilerplate for modern vanilla JavaScript development. Includes Webpack 5 for bundling, a live dev server, ESLint for code quality, Prettier for formatting, and Stylelint for CSS.
+> Javascript development template. Includes Webpack 5 for bundling, live dev server, ESLint for code quality, Prettier for formatting, and Stylelint for CSS.
 
 
 ![property-grouping demo](https://github.com/user-attachments/assets/e9a67a22-d0a4-4237-9697-e50aaad1a7db)
